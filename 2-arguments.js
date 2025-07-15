@@ -9,3 +9,5 @@ if (args.length === 0) {
 } else {
   console.log('Arguments found');
 }
+
+// This script checks the number of command line arguments and prints a message accordingly.
