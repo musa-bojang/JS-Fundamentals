@@ -7,3 +7,4 @@ if (isNaN(exVal || isNaN(exVal2))) {
 } else {
     console.log(exVal + exVal2);
 }
+// This code checks if two numbers are provided as arguments and prints their sum. If either argument is not a number, it prints 'Please write a number'.
