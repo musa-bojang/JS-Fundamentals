@@ -8,3 +8,5 @@ if (!isNaN(number)) {
 } else {
   console.log('Not a number');
 }
+
+// If a valid number is provided, print 'My number: <number>'
