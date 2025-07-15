@@ -10,3 +10,5 @@ function factorial(n) {
 }
 
 console.log(factorial(num));
+
+// This code calculates the factorial of a number provided as an argument. If the argument is not a number or is zero, it returns 1. Otherwise, it recursively calculates the factorial and prints the result.
