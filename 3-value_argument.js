@@ -7,3 +7,5 @@ if (arg !== undefined) {
 } else {
   console.log('No argument');
 }
+
+// No argument provided, print 'No argument'
